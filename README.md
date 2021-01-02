@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Developer Notes
+**Firstly edit the .env file and write your mongodb atlas password and database name**
+**Then run `nodemon server`
+Then Run `npm start`
+Also remember to add your IP address to the list of allowed hosts in mongodb atlas**
